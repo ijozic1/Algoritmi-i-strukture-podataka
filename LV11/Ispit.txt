@@ -1,5 +1,0 @@
-- binarno stablo - obilasci, brisanje citavog stabla u postorder, naci min i max ili npr II po velicini,
-                   obici npr od nekog do nekog cvora da ne obilazimo sve
-- AVL stablo, dodavanje, brisanje, balansiranje I STABLO U OBLIKU NIZA
-- gomila - dodavanje, brisanje ne samo korijena nego bilo kojeg
-- hash tabela - ispisi (kad dodajemo el i imamo koliziju ako imamo del na koji naidjemo stavaljamo na njega)
